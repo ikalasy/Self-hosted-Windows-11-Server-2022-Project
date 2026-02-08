@@ -10,10 +10,11 @@
   -`Intune`  
   -`Jira Service Management`
 
-# ⌨️ How to replicate this project!
-Follow this series by Kevtech IT Support (https://www.youtube.com/playlist?list=PLdh13bXVc6-nhNqrV6pNQFsBXtUxm5hiK), you could also just follow along with my steps in [My Process](./MyProcess.md)   
+# ⌨️ How to replicate this project!  
+Follow along with my steps in [My Process](./MyProcess.md) 
+You can also follow along with this series by [Kevtech IT Support](https://www.youtube.com/playlist?list=PLdh13bXVc6-nhNqrV6pNQFsBXtUxm5hiK) 
 
-For ticket management use Jira Service Management (**FREE!!!**), and make sure to allocate at least 6-8gbs of ram to each VM (I learned the hard way)
+For ticket management use [Jira Service Management](https://www.atlassian.com/software/jira/service-management?campaign=17732529748&adgroup=140639872753&targetid=kwd-362168546815&matchtype=e&network=g&device=c&device_model=&creative=740212357842&keyword=jira%20service%20management&placement=&target=&ds_eid=700000001721198&ds_e1=GOOGLE&gad_source=1&gad_campaignid=17732529748&gclid=Cj0KCQiAhaHMBhD2ARIsAPAU_D4tYM5GI9JHv6AlLBdozMA1QrFojbxetGNGYHWSPu5fzlBUjim6sUkaAgz3EALw_wcB) (**FREE!!!**), and make sure to allocate at least 6-8gbs of ram to each VM (I learned the hard way)
 
 *The downloads you'll need are listed **HERE!!:***  
   -[Windows 11 Download ](https://www.microsoft.com/en-us/software-download/windows11)  
