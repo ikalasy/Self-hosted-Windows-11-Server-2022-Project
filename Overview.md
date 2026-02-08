@@ -15,9 +15,9 @@ Follow this series by Kevtech IT Support (https://www.youtube.com/playlist?list=
 
 For ticket management use Jira Service Management (**FREE!!!**), and make sure to allocate at least 6-8gbs of ram to each VM (I learned the hard way)
 
-*The downloads you'll need are listed **HERE!!:***
-  -[Windows 11 Download]([url](https://www.microsoft.com/en-us/software-download/windows11))  
-  -https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2022
+*The downloads you'll need are listed **HERE!!:***  
+  -[Windows 11 Download ](https://www.microsoft.com/en-us/software-download/windows11)  
+  -[Windows Server 2022](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2022)
 
 To get the .iso file you'll need for your user VM, run the windows11 setup installer from the first link, run it, and select to obtain the .iso file.
 
